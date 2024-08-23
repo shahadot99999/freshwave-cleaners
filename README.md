@@ -7,7 +7,7 @@ Overview
 Freshwave Cleaners is a modern, user-friendly web interface designed to enhance the user experience for a cleaning service website. This project demonstrates my proficiency in frontend development using HTML, CSS, and Tailwind CSS to create responsive, visually appealing, and functional layouts.
 
 
-live link: 
+live link: https://freshwave-cleaners.netlify.app/
 
 git link: https://github.com/shahadot99999/freshwave-cleaners
 
@@ -46,6 +46,7 @@ A responsive and aesthetically pleasing footer with essential links and contact 
 Designed to align with the overall theme and branding of Freshwave Cleaners.
 
 Technologies Used:
+
 HTML
 CSS
 Tailwind CSS
